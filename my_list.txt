@@ -1,0 +1,5 @@
+ "Monstera deliciosa"
+"Fiddle leaf fig"
+"pilea"
+ "Golden pothos"
+"peace lily"
